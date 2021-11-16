@@ -41,6 +41,7 @@ Introduce some of the benefits of preprinting. These could include:
 
 - Benefits for science, e.g. getting your work out there as soon as it’s ready, to reduce delays in knowledge sharing
 - Benefits for researchers, e.g. as a free way to publish open access
+- One of the easiest starting points for Open Science
 
 ## Acknowledging concerns
 
