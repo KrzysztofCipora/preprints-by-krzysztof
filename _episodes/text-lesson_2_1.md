@@ -34,6 +34,7 @@ Consider the following points:
 - Will posting a preprint affect publishing in other journals? (check Sherpa/Romeo)
 - Examples of relevant journals in your field that do/don’t allow preprints (most do!)
 - Citing preprints - may be relevant as some journals don’t allow this
+- Combining citations of a preprint and the later published version
 
 Funder policies
 Be aware of what your funder requires (e.g., some funder policies encourage or mandate preprints in the case of global health emergencies). Giving specific concrete examples helps people take it seriously - don’t just mention “check your funder”!
