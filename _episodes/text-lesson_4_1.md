@@ -32,11 +32,18 @@ Guide your attendees in making a plan for their own workflow - have them write d
 ## Where will I publish the preprint?
 
 Have your participants consider what preprint servers are relevant to their research. This is also a good time for your participants to consider what journals they wish to publish in and what their preprint policies are.
+Benefits and problems with posting on multiple sites (e.g., preprint server and Research Gate / Academia)
 
 ## When will I publish the preprint?
 
-Have your participants consider when is the right time to publish their preprint. For many authors, this may be simultaneous with submission to a journal - but it could come earlier or later.
+Have your participants consider when is the right time to publish their preprint. Benefits and problems with posting a preprint:
+- some time before journal submission (early feedback, before a conference, before a job application etc.)
+- along with journal submission
+- after journal submission
+
 
 ## When will I update the preprint?
+- version control
+- keeping up-to-date with revisions
 
 Participants should make a plan for when they will update the preprint with new versions (e.g., after substantial revisions, peer review, or journal acceptance) and how they will remember to do so.
