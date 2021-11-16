@@ -40,8 +40,8 @@ Give an introduction to what preprints are. It can be useful to add a discussion
 Introduce some of the benefits of preprinting. These could include:
 
 - Benefits for science, e.g. getting your work out there as soon as it’s ready, to reduce delays in knowledge sharing
-- Benefits for researchers, e.g. as a free way to publish open access
-- One of the easiest starting points for Open Science
+- Benefits for researchers, e.g. as a free way to publish open access, citation benefits of preprinted papers
+- One of the easiest entry points to Open Science
 
 ## Acknowledging concerns
 
@@ -49,5 +49,6 @@ Importantly, address the concerns that your participants have. Common concerns (
 
 - The dangers of having non-peer reviewed studies in public view (and how to mitigate that)
 - Having multiple versions of a paper out there (and how to link back to the final published version)
+- Extra time and effort needed
 
 You might want to reassure the participants of your workshop that it’s okay to be concerned about these topics, and that your workshop will help them overcome these concerns.
